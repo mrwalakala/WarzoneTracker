@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Warzone User)">3dbac7f51bc41010c9df63913d4bcbdf</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Warzone User)</name>
+        <order>10</order>
+        <parent>f5bac7f51bc41010c9df63913d4bcbdb</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2020-04-09 08:24:39</sys_created_on>
+        <sys_id>7dbac7f51bc41010c9df63913d4bcbee</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Delete (Warzone User)</sys_name>
+        <sys_package display_value="TrackerWarzone" source="x_alli2_trackerwar">02794bb51bc41010c9df63913d4bcbd3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TrackerWarzone">02794bb51bc41010c9df63913d4bcbd3</sys_scope>
+        <sys_update_name>sys_sg_button_instance_7dbac7f51bc41010c9df63913d4bcbee</sys_update_name>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2020-04-09 08:28:24</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=7dbac7f51bc41010c9df63913d4bcbee"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Warzone User)">b1bac7f51bc41010c9df63913d4bcbf9</button>
+        <item_parameter display_value="Warzone User kdrateo">b5bac7f51bc41010c9df63913d4bcbf1</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2020-04-09 08:24:39</sys_created_on>
+        <sys_id>35ba0bf51bc41010c9df63913d4bcb04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b5bac7f51bc41010c9df63913d4bcbf1</sys_name>
+        <sys_package display_value="TrackerWarzone" source="x_alli2_trackerwar">02794bb51bc41010c9df63913d4bcbd3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TrackerWarzone">02794bb51bc41010c9df63913d4bcbd3</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_35ba0bf51bc41010c9df63913d4bcb04</sys_update_name>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2020-04-09 08:24:39</sys_updated_on>
+        <ui_parameter display_value="Kdrateo">b1bac7f51bc41010c9df63913d4bcbfa</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

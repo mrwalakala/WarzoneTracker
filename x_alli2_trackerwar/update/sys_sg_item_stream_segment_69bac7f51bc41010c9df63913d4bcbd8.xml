@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Warzone User Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Warzone Users">25bac7f51bc41010c9df63913d4bcbd5</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2020-04-09 08:24:38</sys_created_on>
+        <sys_id>69bac7f51bc41010c9df63913d4bcbd8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Warzone User Item Stream Segment</sys_name>
+        <sys_package display_value="TrackerWarzone" source="x_alli2_trackerwar">02794bb51bc41010c9df63913d4bcbd3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TrackerWarzone">02794bb51bc41010c9df63913d4bcbd3</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_69bac7f51bc41010c9df63913d4bcbd8</sys_update_name>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2020-04-09 08:24:38</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>
