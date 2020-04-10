@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
     <sys_push_notif_app_install action="INSERT_OR_UPDATE">
         <active>true</active>
-        <last_registered_on>2020-04-09 08:26:31</last_registered_on>
+        <last_registered_on>2020-04-09 10:57:39</last_registered_on>
         <sys_class_name>sys_push_notif_app_install</sys_class_name>
         <sys_created_by>alberto.colombo</sys_created_by>
         <sys_created_on>2020-04-09 08:26:31</sys_created_on>
         <sys_id>852b83bddb841010ee45bd27f49619d7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>e0NxfguYzxE:APA91bFW84UQVLhYQrrLmjNxZy_pGFAP_bpxK7SsFNgeJkHjtKBHFGpzBAK7oCwaQd2da7BOFAElrIfrgaozysHe1NS9Q6j_m8WyRGI_Xg7wZbvdvbbUQgisNsnwl3xLoG1YgMlGcVYw</sys_name>
         <sys_package display_value="TrackerWarzone" source="x_alli2_trackerwar">02794bb51bc41010c9df63913d4bcbd3</sys_package>
         <sys_policy/>
@@ -15,7 +15,7 @@
         <sys_scope display_value="TrackerWarzone">02794bb51bc41010c9df63913d4bcbd3</sys_scope>
         <sys_update_name>sys_push_notif_app_install_852b83bddb841010ee45bd27f49619d7</sys_update_name>
         <sys_updated_by>alberto.colombo</sys_updated_by>
-        <sys_updated_on>2020-04-09 08:26:31</sys_updated_on>
+        <sys_updated_on>2020-04-09 10:57:39</sys_updated_on>
         <sys_user_id display_value="Alberto Colombo">d08c53a1db009050ee45bd27f496196e</sys_user_id>
         <token>e0NxfguYzxE:APA91bFW84UQVLhYQrrLmjNxZy_pGFAP_bpxK7SsFNgeJkHjtKBHFGpzBAK7oCwaQd2da7BOFAElrIfrgaozysHe1NS9Q6j_m8WyRGI_Xg7wZbvdvbbUQgisNsnwl3xLoG1YgMlGcVYw</token>
     </sys_push_notif_app_install>

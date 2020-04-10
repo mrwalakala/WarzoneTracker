@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="TrackerWarzone">edba8bb51bc41010c9df63913d4bcbee</applet_launcher>
+        <order/>
+        <section display_value="Warzone User">35ba0bf51bc41010c9df63913d4bcb28</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2020-04-09 08:24:39</sys_created_on>
+        <sys_id>f9ba0bf51bc41010c9df63913d4bcb29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TrackerWarzone" source="x_alli2_trackerwar">02794bb51bc41010c9df63913d4bcbd3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TrackerWarzone">02794bb51bc41010c9df63913d4bcbd3</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_f9ba0bf51bc41010c9df63913d4bcb29</sys_update_name>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2020-04-09 08:24:39</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TrackerWarzone">02794bb51bc41010c9df63913d4bcbd3</application>
+        <file_path/>
+        <instance_id>cfba3645dbcf44940b9d21c405961924</instance_id>
+        <instance_name>allinancesrldemo4</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_f9ba0bf51bc41010c9df63913d4bcb29</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="TrackerWarzone">edba8bb51bc41010c9df63913d4bcbee</applet_launcher><order/><section display_value="Warzone User">35ba0bf51bc41010c9df63913d4bcb28</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>alberto.colombo</sys_created_by><sys_created_on>2020-04-09 08:24:39</sys_created_on><sys_id>f9ba0bf51bc41010c9df63913d4bcb29</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="TrackerWarzone" source="x_alli2_trackerwar">02794bb51bc41010c9df63913d4bcbd3</sys_package><sys_policy/><sys_scope display_value="TrackerWarzone">02794bb51bc41010c9df63913d4bcbd3</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_f9ba0bf51bc41010c9df63913d4bcb29</sys_update_name><sys_updated_by>alberto.colombo</sys_updated_by><sys_updated_on>2020-04-09 08:24:39</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-1557608932</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>82794bb51bc41010c9df63913d4bcbd5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2020-04-09 08:24:39</sys_created_on>
+        <sys_id>3dba0bf51bc41010c9df63913d4bcb2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1715e0a84310000001</sys_recorded_at>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2020-04-09 08:24:39</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>b5ba0bf50ac410102a46221e4315df2f</update_guid>
+        <update_guid_history>b5ba0bf50ac410102a46221e4315df2f:-1557608932</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2020-04-09 10:52:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>1d71174546404dde8bd708f79385e3e9</sys_id>
+        <sys_metadata>f9ba0bf51bc41010c9df63913d4bcb29</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TrackerWarzone" source="x_alli2_trackerwar">02794bb51bc41010c9df63913d4bcbd3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TrackerWarzone">02794bb51bc41010c9df63913d4bcbd3</sys_scope>
+        <sys_scope_delete display_value="">4ac1a742c00e4af294fec5481bcfe079</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_f9ba0bf51bc41010c9df63913d4bcb29</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_f9ba0bf51bc41010c9df63913d4bcb29">3dba0bf51bc41010c9df63913d4bcb2f</sys_update_version>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2020-04-09 10:52:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

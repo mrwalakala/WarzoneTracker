@@ -3,92 +3,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_alli2_trackerwar_warzone_user" element="NULL" name="x_alli2_trackerwar_warzone_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">71facbf51bc41010c9df63913d4bcb04</list_id>
+            <list_id display_value="x_alli2_trackerwar_warzone_user" element="NULL" name="x_alli2_trackerwar_warzone_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">88abab391b081010c9df63913d4bcbab</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>alberto.colombo</sys_created_by>
-            <sys_created_on>2020-04-09 08:25:44</sys_created_on>
-            <sys_id>b9facbf51bc41010c9df63913d4bcb05</sys_id>
+            <sys_created_on>2020-04-09 10:48:27</sys_created_on>
+            <sys_id>c0abab391b081010c9df63913d4bcbad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>alberto.colombo</sys_updated_by>
-            <sys_updated_on>2020-04-09 08:25:44</sys_updated_on>
+            <sys_updated_on>2020-04-09 10:48:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>kdrateo</element>
-            <list_id display_value="x_alli2_trackerwar_warzone_user" element="NULL" name="x_alli2_trackerwar_warzone_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">71facbf51bc41010c9df63913d4bcb04</list_id>
+            <element>last_name</element>
+            <list_id display_value="x_alli2_trackerwar_warzone_user" element="NULL" name="x_alli2_trackerwar_warzone_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">88abab391b081010c9df63913d4bcbab</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>alberto.colombo</sys_created_by>
-            <sys_created_on>2020-04-09 08:25:44</sys_created_on>
-            <sys_id>b1facbf51bc41010c9df63913d4bcb06</sys_id>
+            <sys_created_on>2020-04-09 10:48:27</sys_created_on>
+            <sys_id>88abab391b081010c9df63913d4bcbad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>alberto.colombo</sys_updated_by>
-            <sys_updated_on>2020-04-09 08:25:44</sys_updated_on>
+            <sys_updated_on>2020-04-09 10:48:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>kills</element>
-            <list_id display_value="x_alli2_trackerwar_warzone_user" element="NULL" name="x_alli2_trackerwar_warzone_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">71facbf51bc41010c9df63913d4bcb04</list_id>
+            <element>userid</element>
+            <list_id display_value="x_alli2_trackerwar_warzone_user" element="NULL" name="x_alli2_trackerwar_warzone_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">88abab391b081010c9df63913d4bcbab</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>alberto.colombo</sys_created_by>
-            <sys_created_on>2020-04-09 08:25:44</sys_created_on>
-            <sys_id>35facbf51bc41010c9df63913d4bcb06</sys_id>
+            <sys_created_on>2020-04-09 10:48:27</sys_created_on>
+            <sys_id>1cabab391b081010c9df63913d4bcbad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>alberto.colombo</sys_updated_by>
-            <sys_updated_on>2020-04-09 08:25:44</sys_updated_on>
+            <sys_updated_on>2020-04-09 10:48:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>last_name</element>
-            <list_id display_value="x_alli2_trackerwar_warzone_user" element="NULL" name="x_alli2_trackerwar_warzone_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">71facbf51bc41010c9df63913d4bcb04</list_id>
+            <element>wins</element>
+            <list_id display_value="x_alli2_trackerwar_warzone_user" element="NULL" name="x_alli2_trackerwar_warzone_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">88abab391b081010c9df63913d4bcbab</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>alberto.colombo</sys_created_by>
-            <sys_created_on>2020-04-09 08:25:44</sys_created_on>
-            <sys_id>b5facbf51bc41010c9df63913d4bcb06</sys_id>
+            <sys_created_on>2020-04-09 10:48:27</sys_created_on>
+            <sys_id>9cabab391b081010c9df63913d4bcbad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>alberto.colombo</sys_updated_by>
-            <sys_updated_on>2020-04-09 08:25:44</sys_updated_on>
+            <sys_updated_on>2020-04-09 10:48:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>userid</element>
-            <list_id display_value="x_alli2_trackerwar_warzone_user" element="NULL" name="x_alli2_trackerwar_warzone_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">71facbf51bc41010c9df63913d4bcb04</list_id>
+            <element>kills</element>
+            <list_id display_value="x_alli2_trackerwar_warzone_user" element="NULL" name="x_alli2_trackerwar_warzone_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">88abab391b081010c9df63913d4bcbab</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>alberto.colombo</sys_created_by>
-            <sys_created_on>2020-04-09 08:25:44</sys_created_on>
-            <sys_id>39facbf51bc41010c9df63913d4bcb06</sys_id>
+            <sys_created_on>2020-04-09 10:48:27</sys_created_on>
+            <sys_id>10abab391b081010c9df63913d4bcbae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>alberto.colombo</sys_updated_by>
-            <sys_updated_on>2020-04-09 08:25:44</sys_updated_on>
+            <sys_updated_on>2020-04-09 10:48:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>wins</element>
-            <list_id display_value="x_alli2_trackerwar_warzone_user" element="NULL" name="x_alli2_trackerwar_warzone_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">71facbf51bc41010c9df63913d4bcb04</list_id>
+            <element>kdrateo</element>
+            <list_id display_value="x_alli2_trackerwar_warzone_user" element="NULL" name="x_alli2_trackerwar_warzone_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">88abab391b081010c9df63913d4bcbab</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>alberto.colombo</sys_created_by>
-            <sys_created_on>2020-04-09 08:25:44</sys_created_on>
-            <sys_id>b9facbf51bc41010c9df63913d4bcb06</sys_id>
+            <sys_created_on>2020-04-09 10:48:27</sys_created_on>
+            <sys_id>90abab391b081010c9df63913d4bcbae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>alberto.colombo</sys_updated_by>
-            <sys_updated_on>2020-04-09 08:25:44</sys_updated_on>
+            <sys_updated_on>2020-04-09 10:48:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -102,10 +102,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>alberto.colombo</sys_created_by>
-            <sys_created_on>2020-04-09 08:25:44</sys_created_on>
+            <sys_created_on>2020-04-09 10:48:27</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>71facbf51bc41010c9df63913d4bcb04</sys_id>
+            <sys_id>88abab391b081010c9df63913d4bcbab</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_alli2_trackerwar_warzone_user</sys_name>
             <sys_package display_value="TrackerWarzone" source="x_alli2_trackerwar">02794bb51bc41010c9df63913d4bcbd3</sys_package>
@@ -113,7 +113,7 @@
             <sys_scope display_value="TrackerWarzone">02794bb51bc41010c9df63913d4bcbd3</sys_scope>
             <sys_update_name>sys_ui_list_x_alli2_trackerwar_warzone_user_null</sys_update_name>
             <sys_updated_by>alberto.colombo</sys_updated_by>
-            <sys_updated_on>2020-04-09 08:25:44</sys_updated_on>
+            <sys_updated_on>2020-04-09 10:48:27</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
