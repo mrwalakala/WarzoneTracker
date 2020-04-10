@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="TrackerWarzone Warzone User">e1ba8bb51bc41010c9df63913d4bcbf2</data_item>
+        <dependency_fields>name-11566,wins-3907,last_name-22124,kills-3092,kdrateo-9764</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":16,"Bottom":16},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"TextColor":"#293e40","TextAlignment":"Right","studio_template_field_id":"E1","MaxLines":1,"Font":{"Size":15,"Weight":"regular"},"CellId":"name","Id":11566}],"Id":42845},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"TextColor":"#4F5966","TextAlignment":"Right","studio_template_field_id":"E2","MaxLines":1,"Font":{"Weight":"bold","Size":14},"CornerRadius":2,"CellId":"wins","Id":3907}],"Id":42846}],"Id":12259},{"Type":"Text","Margin":{"Top":9},"TextColor":"#293e40","TextAlignment":"Left","studio_template_field_id":"E3","MaxLines":2,"Font":{"Weight":"medium","Size":18},"CellId":"last_name","Id":22124},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Top":10},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"TextColor":"#7d8a8c","TextAlignment":"Left","studio_template_is_label":true,"studio_template_field_id":"E4","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${kills}","Id":3091},{"Type":"Text","Margin":{},"TextColor":"#293e40","TextAlignment":"Left","studio_template_field_id":"E4","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"kills","Id":3092}],"Id":34348},{"Type":"ViewGroup","Margin":{"Top":5},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"TextColor":"#7d8a8c","TextAlignment":"Left","studio_template_is_label":true,"studio_template_field_id":"E5","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${kdrateo}","Id":9763},{"Type":"Text","Margin":{},"TextColor":"#293e40","TextAlignment":"Left","studio_template_field_id":"E5","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"kdrateo","Id":9764}],"Id":34349}],"Id":12261}],"studio_card_id":"dfbc0cd573812300d396c8168bf6a789","Id":28090}</item_view_json>
+        <name>Warzone User List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>alberto.colombo</sys_created_by>
+        <sys_created_on>2020-04-09 08:24:38</sys_created_on>
+        <sys_id>a5ba8bb51bc41010c9df63913d4bcbf3</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Warzone User List Screen Item View</sys_name>
+        <sys_package display_value="TrackerWarzone" source="x_alli2_trackerwar">02794bb51bc41010c9df63913d4bcbd3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TrackerWarzone">02794bb51bc41010c9df63913d4bcbd3</sys_scope>
+        <sys_update_name>sys_sg_item_view_a5ba8bb51bc41010c9df63913d4bcbf3</sys_update_name>
+        <sys_updated_by>alberto.colombo</sys_updated_by>
+        <sys_updated_on>2020-04-09 10:50:01</sys_updated_on>
+        <table>x_alli2_trackerwar_warzone_user</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=a5ba8bb51bc41010c9df63913d4bcbf3"/>
+</record_update>

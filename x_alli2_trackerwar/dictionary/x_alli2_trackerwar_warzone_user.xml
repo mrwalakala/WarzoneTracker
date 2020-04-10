@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Warzone User" max_length="40" name="x_alli2_trackerwar_warzone_user" sizeclass="2" type="collection">
+        <element label="Kdrateo" max_length="15" name="kdrateo" type="decimal"/>
+        <element label="Kills" max_length="40" name="kills" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="last name" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Userid" max_length="40" name="userid" type="string"/>
+        <element label="Wins" max_length="40" name="wins" type="integer"/>
+    </element>
+</database>
